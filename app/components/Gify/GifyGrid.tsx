@@ -46,7 +46,7 @@ export default function GifyGrid() {
                     />
                 </div>
             ))}
-            {gifs && loading && <p>Loading more...</p>}
+            {/* {gifs && loading && <p>Loading more...</p>} */}
         </div>
     )
 }
